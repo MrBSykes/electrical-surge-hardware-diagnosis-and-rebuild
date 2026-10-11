@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Resolved-2ea44f?style=for-the-badge)
 ![Outcome](https://img.shields.io/badge/Result-1_of_6_Components_Replaced-0078D4?style=for-the-badge)
 
-**Analyst:** Bryan Sykes | **Date:** August 2026
+**Analyst:** Bryan Sykes | **Date:** July 2026
 
 Full write-up: [`docs/electrical-surge-incident-response-and-rebuild.pdf`](docs/electrical-surge-incident-response-and-rebuild.pdf)
 
